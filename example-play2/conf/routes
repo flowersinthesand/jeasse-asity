@@ -1,0 +1,10 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
++ nocsrf
+GET     /send           kim.donghwan.jeasse.asity.example.play2.ChatController.http(request: Request)
++ nocsrf
+POST    /send           kim.donghwan.jeasse.asity.example.play2.ChatController.http(request: Request)
+
+GET     /*file          controllers.Assets.at(path = "/public", file)
