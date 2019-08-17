@@ -19,7 +19,7 @@
   <parent>
     <groupId>kim.donghwan</groupId>
     <artifactId>jeasse-asity-parent</artifactId>
-    <version>0.1.0</version>
+    <version>0.2.0-SNAPSHOT</version>
   </parent>
   <packaging>play2</packaging>
   <artifactId>jeasse-asity-example-play2</artifactId>
