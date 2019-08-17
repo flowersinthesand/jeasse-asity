@@ -24,7 +24,7 @@
   <groupId>kim.donghwan</groupId>
   <artifactId>jeasse-asity-parent</artifactId>
   <packaging>pom</packaging>
-  <version>0.1.0-SNAPSHOT</version>
+  <version>0.1.0</version>
   <modules>
     <module>jeasse-asity-core</module>
     <module>example</module>
