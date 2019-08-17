@@ -22,7 +22,6 @@ import play.mvc.Controller;
 import play.mvc.Http;
 import play.mvc.Result;
 
-import javax.inject.Singleton;
 import java.util.concurrent.CompletionStage;
 
 /**
