@@ -28,7 +28,7 @@ import java.util.Scanner;
 
 /**
  * An example web fragment for Jeasse Asity.
- * <p/>
+ * <p>
  * Most code snippets are copied from the original example in jEaSSE.
  *
  * @author Donghwan Kim
